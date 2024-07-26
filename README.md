@@ -46,13 +46,6 @@ Screenshots of the DAG creation, execution, and task outputs are included in the
 ## Conclusion
 
 This project showcases the ability to create and deploy an automated ETL pipeline using Apache Airflow, highlighting the power and flexibility of Airflow for data engineering tasks.
-
-## Screenshots
-
-- **DAG Dependency Graph**
-- **Gantt Chart of DAG Execution**
-- **Logs and Error Handling**
-
 ## References
 
 - Apache Airflow Documentation: [Airflow](https://airflow.apache.org/docs/)
